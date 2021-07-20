@@ -1,0 +1,7 @@
+web:
+    hosts:
+        ubuntu
+    vars:
+        domain: example.com
+        ansible_user: ubuntu
+        
